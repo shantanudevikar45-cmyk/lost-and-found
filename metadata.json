@@ -1,0 +1,6 @@
+{
+  "name": "CampusFind — Campus Lost-and-Found Portal",
+  "description": "A modern campus lost-and-found portal for college students to report lost belongings, share found items, and reconnect their campus community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
